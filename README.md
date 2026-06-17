@@ -16,9 +16,7 @@ The project focuses on:
 
 ## Business Objective
 Identify high-value customers most likely to adopt a second financial product using transaction behavior, engagement metrics, and customer segmentation.
-
 ---
-
 
 ## Dataset Recommendation
 
