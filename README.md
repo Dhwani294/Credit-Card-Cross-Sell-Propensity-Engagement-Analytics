@@ -3,7 +3,7 @@
 
 
 ## Overview
-This project simulates a real-world fintech analytics workflow inspired by commercial card and customer engagement analytics teams at companies like American Express.
+This project simulates a real-world fintech analytics workflow inspired by commercial card and customer engagement analytics teams.
 
 The project focuses on:
 - Customer engagement analytics
