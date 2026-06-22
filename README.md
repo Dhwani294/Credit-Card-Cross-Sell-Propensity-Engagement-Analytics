@@ -1,7 +1,6 @@
 
 # Credit Card Cross-Sell Propensity & Engagement Analytics
 
-
 ## Overview
 This project simulates a real-world fintech analytics workflow inspired by commercial card and customer engagement analytics teams.
 
